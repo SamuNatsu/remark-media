@@ -44,7 +44,7 @@
 	},
 	"homepage": "https://github.com/moecasts/remark-media#readme",
 	"peerDependencies": {
-		"remark-directive": "^3.0.0"
+		"remark-directive": "^3.0.0 || ^4.0.0"
 	},
 	"dependencies": {
 		"mdast-util-directive": "^3.0.0",
